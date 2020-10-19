@@ -78,8 +78,7 @@ caches statistics for your repositories. For more information, see issue
    statistics images.
 9. Star this repo if you like it!
 
-
-# Related Projects
+# Related Projects  
 
 - Inspired by a desire to improve upon
   [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
